@@ -38,7 +38,7 @@ const NavBar = () => {
         </Menu>
 
         <Typography variant="h6" sx={{ flexGrow: 1, ml: 2 }}>
-          ERP System
+           KLU ERP System
         </Typography>
 
         <Box sx={{ display: "flex", alignItems: "center", backgroundColor: "white", borderRadius: 1, pl: 1 }}>
